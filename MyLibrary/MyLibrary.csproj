@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="SpAssamblyLoadApp">
+      <HintPath>..\SpAssamblyLoadApp\bin\Debug\net8.0\SpAssamblyLoadApp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
